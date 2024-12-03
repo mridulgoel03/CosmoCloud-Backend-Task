@@ -11,7 +11,7 @@ A FastAPI-powered backend for managing student data with MongoDB Atlas as the da
 
 ## 🌐 Deployment
 
-The app is deployed and accessible at [Your Base URL](https://cosmocloud-backend-task-1diz.onrender.com/) (replace this with your actual deployed URL).
+The app is deployed and accessible at [Base URL](https://cosmocloud-backend-task-1diz.onrender.com/)
 
 ## 🚀 Features
 
