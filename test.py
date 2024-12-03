@@ -1,8 +1,8 @@
 from urllib.parse import quote_plus
 
 # Replace these values with your actual username and password
-db_username = "mridulg"
-db_password = "admin123"
+db_username = "XYZ add your name"
+db_password = "zyzAdd your password"
 
 # Encode the credentials
 encoded_username = quote_plus(db_username)
